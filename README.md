@@ -1,2 +1,2 @@
 # odin-recipes
-Repo de test HTML
+This project will serve me as a test and a demonstration of my basic skills with HTML.
